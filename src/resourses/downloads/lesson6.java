@@ -8,6 +8,9 @@ public class lesson6
 		for(int y:a)
 		{
 			System.out.println(y);
+System.out.println(y);
+
+			System.out.println(y);
 		}
 	}
 	public static void change(int x[])
